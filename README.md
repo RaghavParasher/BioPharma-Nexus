@@ -3,7 +3,7 @@
 > **Award-Winning Submission for Hyperbloom September — AI/ML Track**  
 > *Theme: "Build Intelligence" — Multimodal Deep Learning, Real-Time Biophysical Thermodynamics, CRISPR Cleavage Scoring & In Silico ADMET Telemetry.*
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel%20Deployment-00f2fe?style=for-the-badge&logo=vercel)](https://biopharma-nexus.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel%20Deployment-00f2fe?style=for-the-badge&logo=vercel)](https://biopharmanexus.vercel.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-10b981.svg?style=for-the-badge)](LICENSE)
 [![React 19](https://img.shields.io/badge/React-19.0-61dafb?style=for-the-badge&logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178c6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
@@ -12,7 +12,7 @@
 ---
 
 ## 🌟 Live Deployment & Quick Links
-- **🚀 Live Application:** [https://biopharma-nexus.vercel.app/](https://biopharma-nexus.vercel.app/)
+- **🚀 Live Application:** [https://biopharmanexus.vercel.app/](https://biopharmanexus.vercel.app/)
 - **📁 GitHub Repository:** [https://github.com/RaghavParasher/BioPharma-Nexus](https://github.com/RaghavParasher)
 - **📦 Submission ZIP:** `C:\Users\admin\Downloads\biopharma_nexus_submission.zip`
 
